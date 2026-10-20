@@ -1,0 +1,2 @@
+pydriller == 2.12
+rdflib == 7.6.0
